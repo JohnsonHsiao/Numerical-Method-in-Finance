@@ -1,0 +1,13 @@
+﻿  PV.cpp
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l2\pv\pv.cpp(10): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l2\pv\pv.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l2\pv\pv.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l2\pv\pv.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l2\pv\pv.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  PV.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L2\PV\Debug\PV.exe
+  PV.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L2\PV\Debug\PV.pdb (Full PDB)

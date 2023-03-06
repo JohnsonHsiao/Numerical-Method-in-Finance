@@ -1,0 +1,13 @@
+﻿  Array.cpp
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l3\array\array.cpp(12): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l3\array\array.cpp(45): warning C4305: '=': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l3\array\array.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l3\array\array.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l3\array\array.cpp(49): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l3\array\array.cpp(62): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  Array.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L3\Array\Debug\Array.exe
+  Array.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L3\Array\Debug\Array.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  main.cpp
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l1\commericalpaper\main.cpp(9): warning C4477: 'scanf' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double *'
+  z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l1\commericalpaper\main.cpp(9): note: 請考慮在格式字串中使用 '%lf'
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l1\commericalpaper\main.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l1\commericalpaper\main.cpp(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  CommericalPaper.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L1\CommericalPaper\Debug\CommericalPaper.exe
+  CommericalPaper.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L1\CommericalPaper\Debug\CommericalPaper.pdb (Full PDB)

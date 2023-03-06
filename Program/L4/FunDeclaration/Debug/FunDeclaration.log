@@ -1,0 +1,3 @@
+﻿  main.cpp
+main.obj : error LNK2019: 無法解析的外部符號 "void __cdecl f(void)" (?f@@YAXXZ) 在函式 _main 中被參考
+Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L4\FunDeclaration\Debug\FunDeclaration.exe : fatal error LNK1120: 1 個無法解析的外部符號
