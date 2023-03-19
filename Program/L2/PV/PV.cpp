@@ -3,28 +3,28 @@
 
 int main()
 {
-    // if ±±¨îµ²ºc
+    // if ï¿½ï¿½ï¿½îµ²ï¿½c
 	int grade;
 	float d,e,f,r,s;
-	printf("¿é¤J«H¥Îµûµ¥:");
-	scanf("%d",&grade);
-	printf("¿é¤J²Ä¤@´Á²{ª÷¬y:");
-	scanf("%f",&d);
-    printf("¿é¤J²Ä¤G´Á²{ª÷¬y:");
-	scanf("%f",&e);
-	printf("¿é¤J§Q²v:");
-	scanf("%f",&r);
-	printf("¿é¤J­·ÀI¶K¤ô:");
-	scanf("%f",&s);
+	printf("è¼¸å…¥ä¿¡ç”¨è©•ç­‰:");
+ 	scanf("%d",&grade);
+ 	printf("è¼¸å…¥ç¬¬ä¸€æœŸç¾é‡‘æµ:");
+ 	scanf("%f",&d);
+    printf("è¼¸å…¥ç¬¬äºŒæœŸç¾é‡‘æµ:");
+ 	scanf("%f",&e);
+ 	printf("è¼¸å…¥åˆ©çŽ‡:");
+ 	scanf("%f",&r);
+ 	printf("è¼¸å…¥é¢¨éšªè²¼æ°´:");
+ 	scanf("%f",&s);;
 	if(grade>=60)
     {  
-	   f=d/(1+r);
-	   f=f+e/((1+r)*(1+r));
+	   f= d/(r+s);
+	   f= f+e/((1+r)*(1+r));
 	}
 	else
 	{
-	   f=d/(1+r+s);
-	   f=f+e/((1+r+s)*(1+r+s));
+	   f=d/(1+r+2*s);
+	   f=f+e/((1+r+2*s)*((1+r+2*s));
 	}
 	printf("Present value=%f\n",f);
 

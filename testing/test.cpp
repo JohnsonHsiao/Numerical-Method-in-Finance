@@ -2,7 +2,8 @@
 using namespace std;
 
 int main(){
-    int a = 5;
-    printf("%d\n",a);
-    return 0;
+    bool a;
+    std::cin >> a;
+    std::cout << a ;
+
 }
