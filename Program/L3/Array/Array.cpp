@@ -19,7 +19,6 @@ int main()
 
 
 	//利率的輸入及定存的FV的計算
-   
    printf("利率的輸入及定存的FV的計算\n");
 	for(int i=0;i<7;i=i+1)
 	{//利率資料輸入到陣列中,使用控制變數 i決定資料擺放位置
@@ -72,8 +71,7 @@ int main()
 	 for(l=0;l<7;l++)
 	 {
 	  printf("Int[1][%d]=%f\n",l, Int[1][l]);
-	 }
-system("pause");        
+	 }   
 return 0;
 
 }
