@@ -1,0 +1,25 @@
+﻿  BTTDB.cpp
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(12): warning C4273: 'ceil': 不一致的 DLL 連結
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(484): note: 請參閱 'ceil' 之前的定義
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(13): warning C4273: 'floor': 不一致的 DLL 連結
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(493): note: 請參閱 'floor' 之前的定義
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(138): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(141): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(144): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(150): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(153): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(156): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\bttdb\bttdb.cpp(164): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  BTTDB.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L6\BTTDB\Debug\BTTDB.exe
+  BTTDB.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L6\BTTDB\Debug\BTTDB.pdb (Full PDB)

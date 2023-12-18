@@ -1,0 +1,15 @@
+﻿  PJA.cpp
+  Moro.cpp
+  MainTest.cpp
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l7\halton\maintest.cpp(15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 請參閱 'fopen' 的宣告
+  halton.cpp
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l7\halton\halton.cpp(394): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l7\halton\halton.cpp(2328): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l7\halton\halton.cpp(2372): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\time.h(505): note: 請參閱 'localtime' 的宣告
+  正在產生程式碼...
+  Halton.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L7\Halton\Debug\Halton.exe
+  Halton.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L7\Halton\Debug\Halton.pdb (Full PDB)

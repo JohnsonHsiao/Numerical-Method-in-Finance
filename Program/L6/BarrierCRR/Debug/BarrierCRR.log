@@ -1,0 +1,17 @@
+﻿  BarrierCRR.cpp
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\barriercrr\barriercrr.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\barriercrr\barriercrr.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\barriercrr\barriercrr.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\barriercrr\barriercrr.cpp(23): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\barriercrr\barriercrr.cpp(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\barriercrr\barriercrr.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+z:\user\camel\teachingcourse\quantitativefinance\改版vs\code\l6\barriercrr\barriercrr.cpp(29): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 請參閱 'scanf' 的宣告
+  BarrierCRR.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L6\BarrierCRR\Debug\BarrierCRR.exe
+  BarrierCRR.vcxproj -> Z:\User\camel\TeachingCourse\QuantitativeFinance\改版VS\Code\L6\BarrierCRR\Debug\BarrierCRR.pdb (Full PDB)

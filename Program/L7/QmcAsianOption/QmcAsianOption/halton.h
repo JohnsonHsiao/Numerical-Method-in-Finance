@@ -1,0 +1,43 @@
+double arc_cosine ( double c );
+double atan4 ( double y, double x );
+double d_epsilon ( void );
+char digit_to_ch ( int i );
+double dvec_dot_product ( int n, double *r1, double *r2 );
+double dvec_norm_l2 ( int n, double a[] );
+int get_seed ( void );
+bool halham_leap_check ( int ndim, int leap[] );
+bool halham_n_check ( int n );
+bool halham_ndim_check ( int ndim );
+bool halham_seed_check ( int ndim, int seed[] );
+bool halham_step_check ( int step );
+void halham_write ( int ndim, int n, int step, int seed[], int leap[], int base[], 
+  double r[], char *file_out_name );
+void halton ( double r[] );
+bool halton_base_check ( int ndim, int base[] );
+int *halton_base_get ( void );
+void halton_base_set ( int base[] );
+int *halton_leap_get ( void );
+void halton_leap_set ( int leap[] );
+int halton_ndim_get ( void );
+void halton_ndim_set ( int ndim );
+int *halton_seed_get ( void );
+void halton_seed_set ( int seed[] );
+void halton_sequence ( int n, double r[] );
+int halton_step_get ( void );
+void halton_step_set ( int step );
+int i_log_10 ( int i );
+int i_min ( int i1, int i2 );
+void i_to_halton ( int ndim, int step, int seed[], int leap[], int base[], 
+  double r[] );
+void i_to_halton_sequence ( int ndim, int n, int step, int seed[], int leap[],
+  int base[], double r[] );
+char *i_to_s ( int i );
+void ivec_transpose_print ( int n, int a[], char *title );
+int prime ( int n );
+int s_len_trim ( char *s );
+void timestamp ( void );
+char *timestring ( void );
+void u1_to_sphere_unit_2d ( double u[1], double x[2] );
+void u2_to_ball_unit_2d ( double u[2], double x[2] );
+void u2_to_sphere_unit_3d ( double u[2], double x[3] );
+void u3_to_ball_unit_3d ( double u[3], double x[3] );
